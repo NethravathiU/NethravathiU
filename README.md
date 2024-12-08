@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NethravathiU
 - 👀 I’m interested in ...Data Analysis
-- 🌱 I’m currently learning ...Python and AWS
+- 🌱 I’m currently learning ...Python and Azure
 - 💞️ I’m looking to collaborate on ...Power BI and SQL
 - 📫 How to reach me ... nethravathi.udayshankar@gmail.com
 
